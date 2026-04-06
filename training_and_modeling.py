@@ -174,5 +174,3 @@ def predict_no_show_risk(patient_id):
         "recommended_actions": recommendations
     }
 
-result = predict_no_show_risk(1020)
-print(result)
