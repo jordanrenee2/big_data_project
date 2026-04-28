@@ -135,10 +135,3 @@ This tool uses socioeconomic variables (insurance type, housing stability, emplo
 - Automated outreach workflow triggers
 ---
  
-## References
- 
-Chen, J., et al. (2021). Application of machine learning to predict patient no-shows in an academic pediatric ophthalmology clinic. *AMIA Symposium*, 293–302.
- 
-Deina, C., et al. (2024). Decision analysis framework for predicting no-shows to appointments using machine learning algorithms. *BMC Health Services Research*, 24(37).
- 
-Liu, D., et al. (2022). Machine learning approaches to predicting no-shows in pediatric medical appointment. *Digital Medicine*, 50.
